@@ -2,7 +2,6 @@ package hash_test
 
 import (
 	"github.com/brianvoe/gofakeit"
-	"github.com/ebanx/akkad/pkg/core/hash"
 	"github.com/stretchr/testify/suite"
 	"testing"
 )
